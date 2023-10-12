@@ -7,4 +7,7 @@ def main(k,n):
     Returns:
         list: return  answer
     """
-    return
+    return int
+a = 3
+c = 5
+print(list[5:3])
